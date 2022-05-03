@@ -7,7 +7,7 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Настройки</string>
 
-    <string name="menu_home">Создать задачу</string>
+    <string name="menu_home">Новая задача</string>
     <string name="menu_gallery">Мои задачи</string>
-    <string name="menu_slideshow">Настройки</string>
+    <string name="menu_slideshow">Профиль</string>
 </resources>
