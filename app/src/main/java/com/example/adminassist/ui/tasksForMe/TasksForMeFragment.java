@@ -1,27 +1,26 @@
-package com.example.adminassist.ui.home;
+package com.example.adminassist.ui.tasksForMe;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.adminassist.databinding.FragmentNewTaskBinding;
+import com.example.adminassist.databinding.FragmentTasksForMeBinding;
+import com.example.adminassist.databinding.FragmentUserListBinding;
+import com.example.adminassist.ui.userList.UserListViewModel;
 
-public class HomeFragment extends Fragment {
-
-    private FragmentNewTaskBinding binding;
-
+public class TasksForMeFragment extends Fragment {
+    private FragmentTasksForMeBinding binding;
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        HomeViewModel homeViewModel =
-                new ViewModelProvider(this).get(HomeViewModel.class);
+        TasksForMeViewModel tasksForMeViewModel =
+                new ViewModelProvider(this).get(TasksForMeViewModel.class);
 
-        binding = FragmentNewTaskBinding.inflate(inflater, container, false);
+        binding = FragmentTasksForMeBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
         return root;

@@ -7,7 +7,10 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Настройки</string>
 
-    <string name="menu_home">Новая задача</string>
-    <string name="menu_gallery">Мои задачи</string>
-    <string name="menu_slideshow">Профиль</string>
+    <string name="menu_new_task">Новая задача</string>
+    <string name="menu_my_tasks">Мои задачи</string>
+    <string name="menu_profile">Профиль</string>
+    <string name="menu_user_list">Пользователи</string>
+    <string name="menu_tasks_for_me">Задачи для меня</string>
+    <string name="menu_organization_profile">Профиль организации</string>
 </resources>

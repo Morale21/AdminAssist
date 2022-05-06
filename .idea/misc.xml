@@ -11,7 +11,7 @@
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/drawable/side_nav_bar.xml" value="0.223" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/activity_login.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
-        <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/activity_sign_in.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/app_bar_main.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/content_main.xml" value="0.33" />
@@ -19,8 +19,12 @@
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/fragment_home.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/fragment_my_tasks.xml" value="0.40380313199105144" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/fragment_new_task.xml" value="0.5" />
+        <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/fragment_organization_profile.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/fragment_profile.xml" value="0.5" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/fragment_tasks_for_me.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/fragment_user_list.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/fragment_users.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/layout/nav_header_main.xml" value="0.33" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Luc/AndroidStudioProjects/AdminAssist/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
